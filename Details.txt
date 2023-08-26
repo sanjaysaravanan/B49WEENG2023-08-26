@@ -1,0 +1,37 @@
+
+
+Topics:
+
+  Style using the style prop for an element, and classlist using the stylesheet
+
+  Node/Element/Tag Selection:
+    getElementById
+    getElementByClassName
+    querySelector
+    querySelectorAll
+
+  SASS: ( Syntatically Awesome Style Sheet )
+    SCSS and compilation
+
+  
+  Window - Common Utilities
+
+    prompt
+
+    alert
+
+    confirm
+
+    setTimeout 
+
+    setInterval
+
+    Events:
+
+      event object for each events
+
+      DOMContentLoaded
+      click
+      mouseover
+      mouseleave
+      submit
