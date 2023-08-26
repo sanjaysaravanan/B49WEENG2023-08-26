@@ -66,4 +66,9 @@ Next Session:
       classlist toggle
 
 Tasks:
+
+  Revise all the things discussed today in the class and practice the netlify Deployment
+  **
+  Day 11 Task will be evaluated without deployments -- Since we have not discussed Netlify Till Today ( 2023-08-26 )
+  **
   You can start from Tomorrow ( 2023-08-27 )
