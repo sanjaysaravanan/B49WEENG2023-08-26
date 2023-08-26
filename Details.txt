@@ -1,30 +1,57 @@
 
 
 Topics:
+  
+  Deployment: Making the site available Publically
 
-  Style using the style prop for an element, and classlist using the stylesheet
+    Netlify: Deployment application ( take static file and serve it publically )
+
+      Step1: Have Your Codes ( html, css, js ) psuhed to a public respository
+
+      Step2: Sign Up on https://netlify.com
+
+      Step3: Add new site
+
+      Step4: Choose Github as source
+
+      Step5: Choose the proper respository containing the codes
+
+      Step6: Deploy respository
+    
+    Copy Public URL and Submit in the Task Submitions
+    
+
+  Style using the style prop for an element, 
+    style.<prop-name-in-camelcase>
+
+  classlist using the stylesheet
 
   Node/Element/Tag Selection:
-    getElementById
-    getElementByClassName
-    querySelector
-    querySelectorAll
+    getElementById - Returns a reference to the first object with the specified value of the ID attribute
 
+    getElementsByClassName - Returns a HTMLCollection of the elements in the object on which the method was invoked (a document or an element) that have all the classes given by classNames. The classNames argument is interpreted as a space-separated list of classes.
+
+
+    using CSS Selector
+    querySelector ---> Returns the first element that is a descendant of node that matches selectors
+    querySelectorAll --> Returns all element descendants of node that match selectors
+  
   SASS: ( Syntatically Awesome Style Sheet )
     SCSS and compilation
-
   
   Window - Common Utilities
 
-    prompt
+    prompt - prompts an input from the user
 
-    alert
+    alert - simple message to the user
 
-    confirm
+    confirm - confirm the course of action ( true or false )
 
-    setTimeout 
+    setTimeout --> executes a set of codes after a sometime ( in ms )
 
-    setInterval
+    setInterval --> execute a set of codes for a frequency of interval
+
+Next Session:
 
     Events:
 
@@ -35,3 +62,8 @@ Topics:
       mouseover
       mouseleave
       submit
+
+      classlist toggle
+
+Tasks:
+  You can start from Tomorrow ( 2023-08-27 )
